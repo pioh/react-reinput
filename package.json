@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3m1urg/react-reinput.git"
+    "url": "git+https://github.com/pioh/react-reinput.git"
   },
   "keywords": [
     "react",
