@@ -1,6 +1,6 @@
 {
   "name": "react-reinput",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React input component backed by extensive regex support.",
   "main": "index.js",
   "repository": {
